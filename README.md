@@ -34,10 +34,10 @@ Always eager to learn and explore new challenges.
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/LOPEZ2306/adminix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOPEZ2306&repo=adminix&theme=algolia" />
+    <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=LOPEZ2306&repo=adminix&theme=algolia" />
   </a>
   <a href="https://github.com/LOPEZ2306/Urbify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LOPEZ2306&repo=Urbify&theme=algolia" />
+    <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=LOPEZ2306&repo=Urbify&theme=algolia" />
   </a>
 </p>
 
