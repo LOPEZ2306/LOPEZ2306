@@ -45,9 +45,6 @@ Always eager to learn and explore new challenges.
   <a href="https://github.com/LOPEZ2306/Aplicacion-Tareas">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LOPEZ2306&repo=Aplicacion-Tareas&theme=algolia" />
   </a>
-  <a href="https://github.com/LOPEZ2306/Visualia">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LOPEZ2306&repo=Visualia&theme=algolia" />
-  </a>
 </p>
 
 ---
