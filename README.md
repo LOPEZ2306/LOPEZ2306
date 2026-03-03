@@ -33,13 +33,23 @@ Always eager to learn and explore new challenges.
 
 ## 🚀 Featured Projects
 
-[![Adminix](https://img.shields.io/badge/Adminix-Repository-blue?style=for-the-badge&logo=github)](https://github.com/LOPEZ2306/adminix)
+<p align="center">
+  <a href="https://github.com/LOPEZ2306/adminix">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LOPEZ2306&repo=adminix&theme=algolia" />
+  </a>
+  <a href="https://github.com/LOPEZ2306/Urbify">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LOPEZ2306&repo=Urbify&theme=algolia" />
+  </a>
+</p>
 
-[![Urbify](https://img.shields.io/badge/Urbify-Repository-blue?style=for-the-badge&logo=github)](https://github.com/LOPEZ2306/Urbify)
-
-[![Aplicacion Tareas](https://img.shields.io/badge/Aplicacion--Tareas-Repository-blue?style=for-the-badge&logo=github)](https://github.com/LOPEZ2306/Aplicacion-Tareas)
-
-[![Visualia](https://img.shields.io/badge/Visualia-Repository-blue?style=for-the-badge&logo=github)](https://github.com/LOPEZ2306/Visualia)
+<p align="center">
+  <a href="https://github.com/LOPEZ2306/Aplicacion-Tareas">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LOPEZ2306&repo=Aplicacion-Tareas&theme=algolia" />
+  </a>
+  <a href="https://github.com/LOPEZ2306/Visualia">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LOPEZ2306&repo=Visualia&theme=algolia" />
+  </a>
+</p>
 
 ---
 
